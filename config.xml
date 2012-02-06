@@ -22,7 +22,7 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="icons/icon_i114.png" gap:role="default" />
+	<icon src="www.scootling.co.nz/app.scootling.com/icons/icon_i114.png" gap:role="default" />
 	
 
 	<!-- iOS requires specific dimensions for icons; classic iPhone screens, Retina
