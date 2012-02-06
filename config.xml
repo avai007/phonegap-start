@@ -36,6 +36,10 @@
 <icon src="icons/icon_a48.png" width="48" height="48"/>
 <icon src="icons/icon_a72.png" width="72" height="72"/>
 
+<!-- single splash screen specified for use across all platforms.
+    However Multiple splash screen sizes are recommended for iOS -->
+<gap:splash src="splashes/splash768_1004.png" />
+
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	
